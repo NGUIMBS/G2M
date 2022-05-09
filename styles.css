@@ -1,0 +1,301 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.one {
+    background-image: url(pattern.png);
+    height: 90vh;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+.nom {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.doc a {
+    margin: 30px;
+    color: white;
+    text-decoration: none;
+    margin-top: 20px;
+   
+    
+}
+.bloc-gris {
+    display: flex;
+    margin: auto;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+}
+.bloc-gris h5{
+    margin-bottom: 3%;
+    font-size: 20px;
+}
+.bloc-gris h1{
+    margin-bottom: 3%;
+    font-size: 50px;
+}
+.bloc-gris p {
+    margin-bottom: 5%;
+    font-size: 20px;
+}
+.bloc-gris button{
+    padding: 3%;
+    color: white;
+    border-radius: 6%;
+}
+.bloc-gris .cap{
+    display: flex;
+    margin: auto;
+    justify-content: center;
+    height: 70vh;
+    width: auto;
+}
+
+.neige{
+   display: flex;
+   align-items: center;
+   justify-content: space-around;
+   width: 20%;
+}
+
+.neige a{
+    color: white;
+}
+.neige .dev{
+    margin-left: 2%;
+}
+button {
+    background-color: deeppink ;
+    border-color: deeppink;
+    outline: none;
+}
+
+.img {
+    position: absolute;
+    left: 200px;
+}
+
+
+.neige button {
+    color: white;
+    border-radius: 10%;
+    height: 30px;
+    width: 100px;
+    background: transparent;
+    border-color: white;
+    margin-top: 10px;
+
+}
+.code{
+    margin-top: 10%;
+}
+.bloc-image{
+    display: flex;
+    justify-content: space-around;
+}
+.bloc-noir{
+    height: 65vh;
+    width: 30%;
+    background-color: #ECEDF3;
+    border-radius: 5%;
+    margin-left: 10%;
+}
+.code img{
+right: 30px;
+}
+h5{
+    color: #FAB77A;
+    font-size: 15px;
+    margin-bottom: 3%;
+}
+h1{
+    font-size: 60px ;
+    padding: 3%;
+}
+p{
+    margin-bottom: 5%;
+    font-size: 15px;
+}
+.codage{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10%;
+    align-items: center;
+}
+h4{
+    color: #FBCCA0;
+
+}
+h1{
+    font-size: 50px;
+}
+.rade{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 15%;
+    align-items: center;
+    flex-direction: row;
+}
+.bloc-rose{
+    height: 40vh;
+    width: 15%;
+    background-color: #ECEDF3;
+    border-radius: 5%;
+    margin-left: 10%;
+    margin-top: 2%;
+}
+.dog{
+    border: solid 5px #E963A4;
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+.rade h3{
+    margin-top: 5%;
+    font-size: 15px;
+}
+.cage .bag{
+    width: 10%;
+    justify-content: center;
+}
+.jade h3{
+    margin-top: 10%;
+    justify-content: center;
+    margin-left: 10%;
+    font-size: 85%;
+}
+.juda {
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+    align-items: center;
+    
+}
+.juda .jado {
+    width: 5%;
+    justify-content: center;
+}
+.juda h3{
+    font-size: 120%;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.juda .jour {
+    text-align: justify;
+    width: 10%;
+    margin-right: 17%;
+}
+
+.juda .vase {
+    text-align: justify;
+    width: 10%;
+    margin-right: 17%;
+}
+.pure{
+    display: flex;
+    justify-content: space-around;
+    background-color: #ECEDF3;
+    border-radius: 5%;
+    height: 200vh;
+    width: 100%;
+    margin-top: 20%;
+}
+.pure .puce{
+    margin-top: 10%;
+    margin-left: 15%;
+    justify-content: center;
+}
+.bloc-vert{
+    height: 70vh;
+    width: 30%;
+    background-color: rgb(169, 187, 197);
+    margin-top: 8%;
+    border-radius: 10%;
+}
+.bloc-blanc{
+    height: 50vh;
+    width: 100%;
+    background-color: white;
+    margin-top: 10%;
+    border-radius: 10%;
+    margin-left: -15%;
+}
+.mot{
+    margin-top: -12%;
+    margin-left: 5%;
+}
+.moto{
+    margin-top: -12%;
+    margin-left: -8%;
+    background-color: #E963A4;
+}
+.toto{
+    position: absolute;
+    margin-left: 8%;
+    margin-top: -13%;
+}
+.puc {
+    position: absolute;
+    margin-top: 40%;
+    margin-right: 30%;
+}
+.seo {
+    margin-top: 10%;
+    border-radius: 5%;
+}
+.sea {
+    position: absolute;
+    margin-top: 10%;
+    margin-left: 15%;
+    border-radius: 5%;
+}
+.fini {
+    display: flex;
+    position: absolute;
+    margin-top: 82%;
+    justify-items: center;
+    margin-right: 20%;
+    align-items: center;
+    
+}
+.fad{
+    margin-right: 25%;
+}
+
+.faz{
+    margin-right: 25%;
+}
+
+.faq{
+    margin-right: 25%;
+}
+
+.fak{
+    margin-right: 25%;
+}
+
+.total{
+    margin-top: 10%;
+    margin-left: 10%;
+}
+.bloc-mini{
+    height: 19vh;
+    width: 20%;
+    border-radius: 5%;
+    background-color: #faf6f8;
+    position: absolute;
+    margin-top: 10%;
+    margin-left: -1%;
+}   
+.total {
+    position: absolute;
+}
